@@ -1,1 +1,1 @@
-# UI Open Source Particle Emitters
+# Open Source 2D Particle Emitters
