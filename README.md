@@ -1,1 +1,1 @@
-# desync-ui-particles
+# UI Open Source Particle Emitters
