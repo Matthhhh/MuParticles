@@ -13,7 +13,6 @@
                                           [_)\_|  |  |(_| | | |
                                               _|
 __________________________________________________________________________________________________________
-
 ```
 # Introduction
 $\mu\$ Particles or **Mu** Particles (***M***ath’s ***U***I ***Particles***) is a client-based easy-to-use user interface particle emitter for [Roblox](https://en.wikipedia.org/wiki/Roblox) experiences. It is heavily inspired by Synitx's [2D Emitter](https://github.com/Synitx/2D-Emitter-2) and was initially created for exclusive use in *Project Æsir* but has since been open-sourced.
