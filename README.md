@@ -66,7 +66,7 @@ function Emitter.from(Object : ParticleEmitter?) : Emitter
 
 --[[
   :Set(...) should be used to set the properties of an |Emitter|.
-  The |Property| parameter can be a property name or a key-value table (when this is the case, |Value| should be nil.)
+  The |Value| parameter is expected to be nil when |Property| :: {any}.
 ]]--
 function Emitter:Set(Property : string | {any}, Value : any?)
 
