@@ -14,7 +14,7 @@
 								     _|               
 ______________________________________________________________________________________
 																					  
-  Version: 0.3 Release
+  Version: 0.2 Release
   License: CC0-1.0
   Github: https://github.com/Matthhhh/MuParticles
   
